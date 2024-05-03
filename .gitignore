@@ -1,4 +1,5 @@
 .env
 ApiAssistantPub.code-workspace
 ApiAssistant.code-workspace
-/.vscode/*.code-workspace
+/.vscode/
+*.code-workspace
